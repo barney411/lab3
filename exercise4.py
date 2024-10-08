@@ -1,0 +1,2 @@
+"""Create exercise4.py & add function read_matrix that takes the name of a .csv
+ file as passed parameter and returns the numpy array in that file. Add code that calls read_matrix to read the array from exercise3.csv and print it to the terminal. """

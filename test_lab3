@@ -1,0 +1,34 @@
+echo
+cat exercise1.py
+echo
+read -p "---------- 1 ----------- Press enter..."
+python3 test_lab3.py
+rm tmp.*
+cat exercise2.py
+echo
+read -p "---------- 2 ----------- Press enter..."
+cat exercise3.py
+echo
+read -p "---------- 3 ----------- Press enter..."
+cat exercise4.py
+echo
+read -p "---------- 4 ----------- Press enter..."
+cat matrix_io.py
+echo
+read -p "---------- 5 ----------- Press enter..."
+cat exercise6.py
+echo
+python3 exercise6.py
+echo
+read -p "---------- 6 ----------- Press enter..."
+cat exercise7.py
+echo ---------------------
+python3 exercise7.py < exercise7.txt
+rm exercise7.txt
+echo
+read -p "---------- 7 ----------- Press enter..."
+cat exercise8.py
+echo ---------------------
+python3 exercise8.py
+echo
+read -p "---------- 8 ----------- Press enter..."
